@@ -1,6 +1,6 @@
 # jitendra
 <h2 align="center">
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Piyush
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm jitendra
 </h2>
 
 <img align='right' src="https://cutt.ly/lnfmbqL" width="240">
