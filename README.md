@@ -6,16 +6,16 @@
 <img align='right' src="https://cutt.ly/lnfmbqL" width="240">
 
 - ### **🏫 I'm a Computer Science student.**
-- ### ⚡ **I work as a Software Engineer at []()**
-- ### 💼 **I am a Associate Software Engineer at [Decathlon](https://www.decathlon.in/)**
+<!-- - ### ⚡ **I work as a Software Engineer at []()** -->
+<!-- - ### 💼  -->
 - ### 🤔 **I'm interested in**
     - &nbsp;**λ**&nbsp; Computer Science
     - &nbsp;**∮**&nbsp; Math
     - 🧠 Biology
     - 🔑 Crypto **ETH | BTC | XRP | ADA | SOL**
         
-- ### 🦄 **I am working on a simple HTTP/1.1 Server - [hyperion](https://github.com/troglodytto/hyperion)**
-- ### 🦄 **And I am working on a minimal x86 Kernel - [zeno](https://github.com/troglodytto/zeno)**
+<!-- - ### 🦄 **I am working on a simple HTTP/1.1 Server - [hyperion](https://github.com/troglodytto/hyperion)** -->
+<!-- - ### 🦄 **And I am working on a minimal x86 Kernel - [zeno](https://github.com/troglodytto/zeno)** -->
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
 - [DKKAY &amp; STVG - NO REASON](https://www.youtube.com/watch?v=g7maJR840MI)
