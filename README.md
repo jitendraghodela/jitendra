@@ -16,23 +16,8 @@
         
 <!-- - ### 🦄 **I am working on a simple HTTP/1.1 Server - [hyperion](https://github.com/troglodytto/hyperion)** -->
 <!-- - ### 🦄 **And I am working on a minimal x86 Kernel - [zeno](https://github.com/troglodytto/zeno)** -->
-- ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
+- ### 🎵 **Here's some [music](https://www.youtube.com/watch?v=Bznxx12Ptl0&list=RDBznxx12Ptl0) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
-- [DKKAY &amp; STVG - NO REASON](https://www.youtube.com/watch?v=g7maJR840MI)
-- [Crissy Criss &amp; FuntCase - Malfunction &lpar;Defectiøn Remix&rpar;](https://www.youtube.com/watch?v=6pu9znwFLdA)
-- [Ravenscoon - Inertia](https://www.youtube.com/watch?v=f7-QnwdZYwA)
-- [Dirtyphonics x ECRAZE x Graphyt x IVORY x Samplifire - Le Club](https://www.youtube.com/watch?v=wUEfgG91V20)
-- [MUERTE - Blackbelly [DOWNLOAD]](https://www.youtube.com/watch?v=N33u48SQaRg)
-- [Viperactive - Hunted](https://www.youtube.com/watch?v=iPPvK0jkAqM)
-- [Bandlez - Scouts Honor](https://www.youtube.com/watch?v=sYW2mj6gSFw)
-- [Barely Alive &amp; Samplifire - Power Alliance](https://www.youtube.com/watch?v=YLXcffxHVoY)
-- [SWARM - Alpha &amp; Omega &lpar;Official Lyric Video&rpar;](https://www.youtube.com/watch?v=nsNSwQr4TIo)
-- [RIOT - Jackknife](https://www.youtube.com/watch?v=O6q1TpmnbWc)
-- [Slipknot - Devil in I &lpar;SYN Remix&rpar;](https://www.youtube.com/watch?v=4fK_dGt5ER4)
-- [Fukkk Offf - Bang Your Head &lpar;Naeleck &amp; KATFYR Remix&rpar;](https://www.youtube.com/watch?v=mGcqpkS6_38)
-- [MALAA - REVOLT FT. JACKNIFE [PCR010]](https://www.youtube.com/watch?v=s1gbGUEO8uA)
-- [Bossfight - Nock Em](https://www.youtube.com/watch?v=F0PUVKfxkTM)
-- [Headhunterz &amp; KSHMR – Dharma &lpar;Crossnaders Remix&rpar;](https://www.youtube.com/watch?v=cLJmH12j2-Y)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
@@ -47,7 +32,6 @@
     <img height="48" width="48" src="https://cutt.ly/xhUCyFt" />
     <img height="48" width="48" src="https://cutt.ly/ohUXfm2" />
     <img height="48" width="48" src="https://cutt.ly/dhUZ9V9" />
-    <img height="48" width="48" src="/Docker.svg" />
     <img height="48" width="48" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
     <img height="48" width="48" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
     <img height="48" width="48" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
@@ -66,7 +50,6 @@
     <img height="48" width="48" src="https://cutt.ly/ohUXkQ6" />
     <img height="48" width="48" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
     <img height="48" width="48" src="https://cutt.ly/jmyM6jn" />
-    <img height="48" width="48" src="/Phoenix.svg" />
     <img height="48" width="48" src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" />
     <img height="48" width="48" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
     <img height="48" width="48" src="https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg" />
