@@ -16,7 +16,7 @@
         
 <!-- - ### 🦄 **I am working on a simple HTTP/1.1 Server - [hyperion](https://github.com/troglodytto/hyperion)** -->
 <!-- - ### 🦄 **And I am working on a minimal x86 Kernel - [zeno](https://github.com/troglodytto/zeno)** -->
-- ### 🎵 **Here's some [music](https://www.youtube.com/watch?v=Bznxx12Ptl0&list=RDBznxx12Ptl0) 👈 that I like**
+- ### 🎵 **Here's some [music](https://www.youtube.com/playlist?list=PLZwd9P-gZz-ztDDv8jvfFRSa2QX6eSanx) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
