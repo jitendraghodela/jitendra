@@ -20,7 +20,7 @@
     <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## Pandora's Box 🔥
+<!-- ## Pandora's Box 🔥 -->
 
 <!-- <p align="center">
     <img height="48" width="48" src="https://cutt.ly/qhUXKYp" />
@@ -41,9 +41,9 @@
 </p>
  -->
 
-## Learning goals 👓
+<!-- ## Learning goals 👓 -->
 
-<p align="center">
+<!-- <p align="center">
     <img height="48" width="48" src="https://cutt.ly/kvOLjhg" />
     <img height="48" width="48" src="https://cutt.ly/DhUXg0n" />
     <img height="48" width="48" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" />
@@ -55,7 +55,7 @@
     <img height="48" width="48" src="https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg" />
     <img height="48" width="48" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
 </p>
-
+ -->
 
 <p align="center">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=jitendraghodela&count_private=true&show_icons=true&hide=issues&theme=vue&custom_title=My%20Github%20Stats&border_color=41b883&border_radius=18"></img>
