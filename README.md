@@ -22,7 +22,7 @@
 
 ## Pandora's Box 🔥
 
-<p align="center">
+<!-- <p align="center">
     <img height="48" width="48" src="https://cutt.ly/qhUXKYp" />
     <img height="48" width="48" src="https://cutt.ly/phUXVJx" />
     <img height="48" width="48" src="https://cutt.ly/1hUX1az" />
@@ -39,7 +39,7 @@
     <img height="48" width="48" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />
     <img height="48" width="48" src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" />    
 </p>
-
+ -->
 
 ## Learning goals 👓
 
