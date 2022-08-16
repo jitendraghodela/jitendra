@@ -67,7 +67,7 @@
   <a href="https://twitter.com/jitendraghodela" target="blank">
     <img src="https://cutt.ly/mnfmrxh" alt="jitendraghodela" height="48" />
   </a>
-  <a href="https://instagram.com/jitendraghodela.0" target="blank">
+  <a href="https://instagram.com/jitendra.ghodela" target="blank">
     <img src="https://cutt.ly/CnfmoSv" alt="jitendra ghodela" height="48" />
   </a>
   <a href="https://medium.com/@jitendraghodela" target="blank">
