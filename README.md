@@ -11,7 +11,6 @@
 - ### 🤔 **I'm interested in**
     - &nbsp;**λ**&nbsp; Computer Science
     - &nbsp;**∮**&nbsp; Math
-    - 🧠 Biology
     - 🔑 Crypto **ETH | BTC | XRP | ADA | SOL**
         
 <!-- - ### 🦄 **I am working on a simple HTTP/1.1 Server - [hyperion](https://github.com/troglodytto/hyperion)** -->
